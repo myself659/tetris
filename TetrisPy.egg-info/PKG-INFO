@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: TetrisPy
+Version: 1.0
+Summary: A simple Tetris game built with Python and Pygame
+Home-page: https://github.com/myself659/TetrisPy
+Author: 沉风网事
+Author-email: myself659@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: pygame
+
+## tetris

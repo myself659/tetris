@@ -1,0 +1,8 @@
+README.md
+setup.py
+TetrisPy.egg-info/PKG-INFO
+TetrisPy.egg-info/SOURCES.txt
+TetrisPy.egg-info/dependency_links.txt
+TetrisPy.egg-info/entry_points.txt
+TetrisPy.egg-info/requires.txt
+TetrisPy.egg-info/top_level.txt
